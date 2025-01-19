@@ -1,1 +1,1 @@
-console.log("Ejecutando el sistema")￼Enter
+console.log("Ejecutando el sistema")
